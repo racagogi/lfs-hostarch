@@ -22,9 +22,3 @@
     exact = true
     stripComponents = 1
     refreshPeriod = "168h"
-[".oh-my-zsh/custom/plugins/k"]
-    type = "archive"
-    url = "https://github.com/supercrabtree/k/archive/master.tar.gz"
-    exact = true
-    stripComponents = 1
-    refreshPeriod = "168h"
